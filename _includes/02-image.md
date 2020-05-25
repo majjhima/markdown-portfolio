@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Fractal Sun](https://filedn.com/lSx8tpEYxvoXxXeFbooBSk0/images/SunX998-TransparentBackground.png)
