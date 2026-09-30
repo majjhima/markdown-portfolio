@@ -1,0 +1,12 @@
+{
+  "readableLineLength": false,
+  "useTab": false,
+  "tabSize": 2,
+  "vimMode": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "trashOption": "none"
+}

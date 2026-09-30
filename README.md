@@ -1,13 +1,19 @@
-## Your GitHub Learning Lab Repository for Communicating Using Markdown
+# Matthew Sonshine Moore — portfolio
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
+A Markdown portfolio for GitHub Pages, using the built-in Cayman Jekyll theme. No JavaScript or additional plugins are required.
 
-Oh! I haven't introduced myself...
+## Edit
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+- [`index.md`](https://majjhima.github.io/markdown-portfolio/) — professional introduction, experience, skills, and GitHub link.
+- `_config.yml` — site title, description, theme, and deployment URL.
+- `assets/css/style.scss` — colors and accessible link styling.
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+## Publish
 
-I'll meet you over there, can't wait to get started!
+1. Push the reviewed changes to GitHub.
+2. In **Settings → Pages**, choose **Deploy from a branch**, then `master` and `/ (root)`.
+3. Check the Pages build/deployment result and visit <https://majjhima.github.io/markdown-portfolio/>.
 
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+If the repository name or owner changes, update `url` and `baseurl` in `_config.yml`.
+
+The repository's existing [MIT license](LICENSE) is retained.

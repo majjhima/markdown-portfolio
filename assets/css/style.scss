@@ -1,0 +1,39 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+  background-color: #194b3b;
+  background-image: linear-gradient(120deg, #173e36, #32684b);
+}
+
+.project-tagline {
+  opacity: 1;
+}
+
+/* Keep the header focused on the portfolio, not its source repository. */
+.page-header .btn {
+  display: none;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+  color: #24573e;
+}
+
+a {
+  color: #215b83;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+a:focus-visible {
+  outline: 3px solid currentColor;
+  outline-offset: 4px;
+}
+
+html {
+  scroll-padding-top: 1rem;
+}

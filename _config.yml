@@ -1,2 +1,9 @@
-title: Welcome to my portfolio!
+title: Matthew Sonshine Moore
+description: Software engineering · Distributed systems · Developer experience
 theme: jekyll-theme-cayman
+url: https://majjhima.github.io
+baseurl: /markdown-portfolio
+show_downloads: false
+exclude:
+  - README.md
+  - LICENSE

@@ -1,0 +1,9 @@
+# Metadata cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Plugins (except manifest.json files)
+.obsidian/plugins/*
+!.obsidian/plugins/*/
+.obsidian/plugins/*/data.json
+!.obsidian/plugins/*/manifest.json

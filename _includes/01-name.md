@@ -1,1 +1,0 @@
-# Majjhima Markdown Portfolio
