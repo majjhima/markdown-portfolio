@@ -48,3 +48,7 @@ I’m exploring independent business ideas and reusable tools, with a strong foc
 ## Find me online
 
 Browse my public repositories and activity on [GitHub @majjhima](https://github.com/majjhima).
+
+---
+
+[Privacy Policy]({{ '/privacy/' | relative_url }}) · [Terms of Service]({{ '/terms/' | relative_url }})
